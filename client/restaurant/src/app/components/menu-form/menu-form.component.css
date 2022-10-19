@@ -1,0 +1,7 @@
+#resetButton {
+    color: #FFFFFF;
+}
+  
+select.form-control {
+    -webkit-appearance: menulist;
+}
